@@ -1,0 +1,28 @@
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+
+.logo_html5{
+	width: 183px;
+	height: 144px;
+}
+
+.color-letra{
+	 color:#005883;
+}
+
+.hr1{
+	border: 2px solid #F0B429; 
+}
+
+.hr2{
+	border: 2px solid #005883;
+}
+
+.footer {
+  background-color: #005883;
+}
+
+
